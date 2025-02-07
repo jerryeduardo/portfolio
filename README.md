@@ -1,3 +1,3 @@
-## Portfólio
+## Jerry Eduardo
 
-Portfólio para desenvolvedor web
+Portfólio
